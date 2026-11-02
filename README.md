@@ -239,17 +239,27 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-Include the Training Loss per epoch
+
+<img width="587" height="977" alt="image" src="https://github.com/user-attachments/assets/f1541c8a-fba8-4d0f-8281-3959ce430957" />
+
 
 ## Confusion Matrix
 
-Include confusion matrix here
+
+<img width="590" height="491" alt="image" src="https://github.com/user-attachments/assets/ba34cdb4-2697-47a5-a6b6-a21b7cc668e3" />
+
 
 ## Classification Report
-Include classification report here
+
+
+<img width="362" height="282" alt="image" src="https://github.com/user-attachments/assets/7ff1d679-8250-4d37-8c7c-32ca815882cb" />
+
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
+
+<img width="342" height="417" alt="image" src="https://github.com/user-attachments/assets/ebaad5d0-a8f1-4324-afaf-ec16464388f1" />
+
 
 ## RESULT
 Include your result here
