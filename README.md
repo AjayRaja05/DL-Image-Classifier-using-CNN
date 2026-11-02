@@ -7,30 +7,34 @@ To develop a convolutional neural network (CNN) classification model for the giv
 The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9), each of size 28×28 pixels. The task is to classify these images into their respective digit categories. CNNs are particularly well-suited for image classification tasks as they can automatically learn spatial hierarchies of features through convolutional layers, pooling layers, and fully connected layers.
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="909" height="639" alt="Screenshot 2026-02-27 101952" src="https://github.com/user-attachments/assets/cdfd0070-23f6-4f3e-b336-5f326376289c" />
+
 
 ## DESIGN STEPS
-### STEP 1: 
 
-Write your own steps
+### STEP 1: 
+Load the Fashion-MNIST dataset and preprocess images using tensor conversion and normalization.
 
 ### STEP 2: 
-
+Create DataLoaders for training and testing with a fixed batch size.
 
 
 ### STEP 3: 
+Design a CNN model with convolution, ReLU activation, max-pooling, and fully connected layers.
 
 
 
 ### STEP 4: 
-
+Train the model using Cross-Entropy loss and the Adam optimizer for several epochs.
 
 
 ### STEP 5: 
-
+Test the trained model to calculate accuracy, confusion matrix, and classification report.
 
 
 ### STEP 6: 
+Predict and display the class of a single test image with actual and predicted labels.
 
 
 
@@ -262,4 +266,4 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+This program has been executed successfully.
