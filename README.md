@@ -42,9 +42,9 @@ Predict and display the class of a single test image with actual and predicted l
 
 ## PROGRAM
 
-### Name:
+### Name: AJAYRAJA RATHINAM T
 
-### Register Number:
+### Register Number: 212224240006
 
 ```python
 import torch
